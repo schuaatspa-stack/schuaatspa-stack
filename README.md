@@ -2,7 +2,7 @@
 
 **`Estudante de ADS | Python • C • HTML`**
 
-Me chamo João Guilherme Schuatspa, tenho 24 anos e curso Análise e Desenvolvimento de Sistemas na Unicesumar. Também sou graduando em Educação Física na UFPR, e essa bagagem me trouxe disciplina, trabalho em equipe e experiência com pesquisa (Iniciação Científica). Estou aprendendo programação na prática, construindo projetos e buscando uma oportunidade de estágio na área de tecnologia.
+Me chamo João Guilherme Schuatspa, tenho 24 anos e curso Análise e Desenvolvimento de Sistemas na Unicesumar. Também sou graduando em Educação Física na UFPR, e essa bagagem me trouxe disciplina, trabalho em equipe e experiência com pesquisa (Iniciação Científica). Estou aprendendo programação na prática, construindo projetos e buscando uma oportunidade na área de tecnologia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-s-ab1152138">
